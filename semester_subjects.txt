@@ -1,3 +1,11 @@
 physics
 ict
 programming
+
+2nd semester subjects:
+
+oop
+sdlc
+scm
+ds
+isl
